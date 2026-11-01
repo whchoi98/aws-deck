@@ -4,12 +4,12 @@
 |---|---|
 | `aws-deck` | `aws-ppt-skills`, `consulting-ppt-white-ppt`, `pptx-template-fill` |
 
-`aws-ppt-skills`의 템플릿은 AWS Confidential 자료이므로 이 저장소는 private으로 유지합니다.
+`aws-ppt-skills`의 템플릿은 세미나 발표용 자료입니다.
 
 ## 설치
 
 ```bash
-claude plugin marketplace add whchoi98/claude-plugins
+claude plugin marketplace add whchoi98/aws-deck
 claude plugin install aws-deck@whchoi
 ```
 
