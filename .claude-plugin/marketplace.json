@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "whchoi",
+  "owner": {
+    "name": "WooHyung Choi"
+  },
+  "description": "WooHyung Choi의 개인 Claude Code 플러그인 마켓플레이스",
+  "plugins": [
+    {
+      "name": "aws-deck",
+      "source": "./plugins/aws-deck",
+      "description": "AWS Korea PowerPoint 덱 제작: 2026 블랙과 화이트 템플릿 기반 생성(aws-ppt-skills), 고밀도 컨설팅 리포트(consulting-ppt-white-ppt), 기존 템플릿 내용 채우기(pptx-template-fill)"
+    }
+  ]
+}

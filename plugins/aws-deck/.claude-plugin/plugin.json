@@ -1,0 +1,9 @@
+{
+  "name": "aws-deck",
+  "version": "1.0.0",
+  "description": "AWS Korea PowerPoint 덱 제작: 2026 블랙과 화이트 템플릿 기반 생성(aws-ppt-skills), 고밀도 컨설팅 리포트(consulting-ppt-white-ppt), 기존 템플릿 내용 채우기(pptx-template-fill)",
+  "author": {
+    "name": "WooHyung Choi"
+  },
+  "keywords": ["aws", "pptx", "presentation", "pptxgenjs", "python-pptx"]
+}
