@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code local settings and linked worktrees
+.claude/settings.local.json
+.claude/worktrees/
+
+# Environment
+.env
+
+# Python (bundled scripts)
+__pycache__/
+*.pyc
+.venv/
+
+# Node.js (pptxgenjs builds)
+node_modules/
+
+# Logs
+*.log
